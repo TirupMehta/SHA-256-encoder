@@ -8,7 +8,7 @@ Encased in a dark, glassmorphic interface, it pulses with subtle particle effect
 The tool fetches your input, generates a secure hash, and lets you copy it to the clipboard with a toast notification.  
 Red particles flare briefly during hashing, a nod to the beating heart of code.
 
-> "Encode your heart, but never mine."
+> "Encrypt your story, leave no trace."
 
 ---
 
